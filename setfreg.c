@@ -519,6 +519,6 @@ module_init(init_this_module);
 module_exit(exit_this_module);
 
 MODULE_LICENSE("GPL v2");
-MODULE_AUTHOR("Andrew Solodov");
+MODULE_AUTHOR("Paketov");
 MODULE_DESCRIPTION("Set freguency cpu.");
 MODULE_VERSION("1.0");
