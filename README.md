@@ -6,4 +6,4 @@ the command: insmod <module name>.
 Next if you enter command "dmesg",
 dmesg return for you current table 
 frequency. And next in created psevdo files
-you can change frequencys and voltage processor settings.
+you can change frequencies and voltage processor settings.
